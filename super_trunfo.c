@@ -38,14 +38,14 @@
 
 
 
- // Variáveis para Carta 2
-    char estado2;
-    char codigo2[5];
-    char nome2[50];
-    int populacao2;
-    float area2;
-    float pib2;
-    int pontos2;
+     // Variáveis para Carta 2
+     char estado2;
+     char codigo2[5];
+     char nome2[50];
+     int populacao2;
+     float area2;
+     float pib2;
+     int pontos2;
 
 
      // Carta 2
@@ -80,7 +80,7 @@
      printf("População: %d\n", populacao);
      printf("Área: %.2f km²\n", area);
      printf("PIB: %.2f\n", pib);
-     printf("Numeros de pontos turisticos da cidade: %d\n\n", pontos);
+     printf("Numeros de pontos turisticos: %d\n\n", pontos);
 
 
 
@@ -93,7 +93,7 @@
      printf("População: %d\n", populacao2);
      printf("Área: %.2f km²\n", area2);
      printf("PIB: %.2f\n", pib);
-     printf("Numeros de pontos turisticos da cidade: %d\n", pontos2);
+     printf("Numeros de pontos turisticos: %d\n", pontos2);
 
 
 
